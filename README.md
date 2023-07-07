@@ -15,7 +15,7 @@
 ## 🏆 Portfolio
 https://portafoliotetsu.web.app/
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
