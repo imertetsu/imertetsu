@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐I'm looking for new challenges<br>⭐I'm working on my own projects<br>⭐I'm still learning about software development and love it<br>⭐Love to learn and explore new things<br>
+- I'm looking for new challenges<br>- I'm working on my own projects<br>- I'm still learning about software development and love it<br>- Love to learn and explore new things<br>
 
 
 ## 🌐 Socials:
