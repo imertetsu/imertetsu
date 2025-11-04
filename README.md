@@ -1,6 +1,8 @@
 # 💫 About Me:
-- I'm looking for new challenges<br> - I'm working on my own projects<br> - I'm still learning about software development and love it<br> - Love to learn and explore new things<br>
-
+- I'm looking for new challenges
+- I'm working on my own projects
+- I'm still learning about software development and love it
+- Love to learn and explore new things<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imer-vladimir-coaguila-pati%C3%B1o-97b887229/) 
