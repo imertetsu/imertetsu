@@ -61,8 +61,8 @@ Most of my work lives in private repos, so this profile is a sample rather than 
  
 ---
  
-## GitHub
- 
-![Stats](https://github-readme-stats.vercel.app/api?username=imertetsu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imertetsu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imertetsu&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imertetsu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
